@@ -17,6 +17,7 @@ git clone https://github.com/zac432/text-editor.git
 cd text-editor/text-editor/my_venv
 
 Run the application:
+
 python textEditor.py
 
 Make sure you have Python installed on your system. If not, download and install it from python.org.
