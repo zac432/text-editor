@@ -12,6 +12,8 @@ This text editor requires Python and Tkinter, which is usually included with the
 
 Clone the repository:
 git clone https://github.com/zac432/text-editor.git
+
+
 cd text-editor/text-editor/my_venv
 
 Run the application:
