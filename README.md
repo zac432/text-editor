@@ -11,6 +11,7 @@ Installation
 This text editor requires Python and Tkinter, which is usually included with the standard Python installation. Here are the steps to get started:
 
 Clone the repository:
+
 git clone https://github.com/zac432/text-editor.git
 
 
